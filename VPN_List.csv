@@ -30,7 +30,6 @@ AstrillVPN,,
 SlickVPN,,
 Bytz VPN,,
 PureVPN,,
-Ivacy,,
 HideMyAss,"'hidemyass.com','HMA.GUI.Controls.dll','InstallHMAVPN','HMA! Pro VPN.exe'",https://www.virustotal.com/gui/file/8550cb92fbc3b49415c7c1c4b5aeb8c9f2a2d26a703e7b9b59a91040ca34959f/details
 SoftEtherVPN,"'SoftEther VPN','vpnclient.exe','HKLM\Vpn_Check_Admin_Key','vpncmd.exe','VPN Gate Software','VpnGatePlugin_x64.dll'",VirusTotal - File - 9ed3b3c42dd8be664fa582043220d6b7f92ee34d0702f0ec240cb442d99bac59  https://www.virustotal.com/gui/file/226e6b37712bdf43e43b98768b6b1e711be7c5a07807cb3f0fc59532e36cc5e5/relations
 openvpn,"'OpenVPN Inc.','Open.VPN.exe','openvpnserv.exe','openvpn-installer.msi','TAP-Windows Virtual Network Driver','OpenVPN Technologies, Inc.','tap0901.sys','vpnc-script.js','tapinstall.exe'",'https://www.virustotal.com/gui/file/5ea48986cbb2b014628d8d1fd47754f496f425054baa726bb59a9fda0a1e4d8a/details ,https://www.virustotal.com/gui/file/d1e995a2d32e7833a369aa849e8b877162e07c1a161c6dccb95ca2052fc8b1e7/relations'
