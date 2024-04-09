@@ -7,10 +7,8 @@ Sonicwall Global VPN Client 4.x,SonicWall Global VPN Client|SWGVC.exe|SWVNIC.SYS
 SophosConnect,sccli.exe|scvpn.exe,VirusTotal - File - 8907df018407b5b70a217e8f1d7623f879514536a37258af4f3605ec81a2f0e9
 IVPN,Privatus Limited|ivpn-split-tunnel.sys|ivpn.exe|IVPN|IVPN Client.exe,https://www.virustotal.com/gui/file/78e363c6405134ab4424650f2d0435c5a2f4120fcd1b0d4ce062fcd3f6dc471a/details
 Mullvad,Mullvad VPN|https://github.com/mullvad|mullvad-daemon.exe,VirusTotal - File - 49ee14871a1efab88921c1338349d40a732d4fb8c370eaa5047676ac5906768f
-ProtonVPN,ProtonVPN|
-ProtonVPN.InstallActions.dll|tapprotonvpn.sys,VirusTotal - File - a8c0275fdd40b609d34b43ef7cb1f6f814a0f758d65e7562e24899caf66964b7
-Windscribe,
-Windscribe|windscribeservice.exe,https://www.virustotal.com/gui/file/d239bc5872f2d3a93cb19dcb4ca252fe15202af6753ae55f24a194e1d98bca29/details
+ProtonVPN,ProtonVPN|ProtonVPN.InstallActions.dll|tapprotonvpn.sys,VirusTotal - File - a8c0275fdd40b609d34b43ef7cb1f6f814a0f758d65e7562e24899caf66964b7
+Windscribe,Windscribe|windscribeservice.exe,https://www.virustotal.com/gui/file/d239bc5872f2d3a93cb19dcb4ca252fe15202af6753ae55f24a194e1d98bca29/details
 AirVPN,Eddie-Service-Elevated.exe|AirVPN.json,VirusTotal - File - 3fb659ed2160656e73f8c5102dae8be84a1641ea28023989c564d3c23c50198a
 AzireVPN,,
 Surfshark,surfshark.service.exe|surfshark.exe|Surfshark|Surfshark.Antivirus.Remediation.exe|SurfsharkSplitTunnelingService.exe,https://www.virustotal.com/gui/file/58e55e40cf79def5bbb7ee0268203c8f6d2b0d60fd1ded0454ea24e32c9a499f/details
@@ -39,7 +37,7 @@ n2n,,
 dsvpn,,
 strongswan,,
 sigmavpn,,
- onioncat,,
+onioncat,,
 muon,,
 MQTT_VPN,,
 KidVPN,,
@@ -59,18 +57,14 @@ vpa,,
 udpvpn,,
 Citrix R,,
 F5 Edge,,
-GlobalProtect
-,,
+GlobalProtect,,
 thunder-vpn,,
 packetix-vpn,,
 Ivanti Connect Secure,,
 securepoint,spsslvpnservice.exe,
 open connect,openconnect-gui.exe|libopenconnect-5.dll,https://www.virustotal.com/gui/file/6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876/detection/f-6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876-1646819874
 warp,,
-wireguard,
-wireguard.dll|wireguard.exe|WireGuard LLC,https://www.virustotal.com/gui/file/27f03ee083337264bbdf1e7743bd18509c1a1d6a8600168b7e2e93bd112f470c/details
-Twingate,
-TwingateUpdater.dll|Twingate.Service.dll,https://www.virustotal.com/gui/file/5c0292d6ae44e7fe2949a12170d820f7ee8fb091f508717a7c9bbddf876e97ab/relations
-logmein,
-hamachi-2.exe|hamdrv.sys|hamachi.sys,VirusTotal - File - 19599ebcc20574aabff6816f78580711cd416ac545aacaf47ea4cff2f615d3b1
+wireguard,wireguard.dll|wireguard.exe|WireGuard LLC,https://www.virustotal.com/gui/file/27f03ee083337264bbdf1e7743bd18509c1a1d6a8600168b7e2e93bd112f470c/details
+Twingate,TwingateUpdater.dll|Twingate.Service.dll,https://www.virustotal.com/gui/file/5c0292d6ae44e7fe2949a12170d820f7ee8fb091f508717a7c9bbddf876e97ab/relations
+logmein,hamachi-2.exe|hamdrv.sys|hamachi.sys,VirusTotal - File - 19599ebcc20574aabff6816f78580711cd416ac545aacaf47ea4cff2f615d3b1
 Shadowsocks,Shadowsocks.exe|Shadowsocks.resources.dll|sysproxy.exe,VirusTotal - File - 62b74a688d22bfdf20f673a351580029d7b9de67c6facc9a5613b22b3f798968
