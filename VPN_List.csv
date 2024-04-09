@@ -12,15 +12,13 @@ Windscribe,Windscribe|windscribeservice.exe,https://www.virustotal.com/gui/file/
 AirVPN,Eddie-Service-Elevated.exe|AirVPN.json,VirusTotal - File - 3fb659ed2160656e73f8c5102dae8be84a1641ea28023989c564d3c23c50198a
 AzireVPN,,
 Surfshark,surfshark.service.exe|surfshark.exe|Surfshark|Surfshark.Antivirus.Remediation.exe|SurfsharkSplitTunnelingService.exe,https://www.virustotal.com/gui/file/58e55e40cf79def5bbb7ee0268203c8f6d2b0d60fd1ded0454ea24e32c9a499f/details
-NordVPN,NordVPN|NordVpn.DiagnosticsTool.Logic.dll|
-NordVpn.Api.dll|NordVpn.Resources.dll,VirusTotal - File - 35a4b2f74d0c8acbcf3fb0d9051e335afdf77a7e0b39c28cc5371c3d09072331
+NordVPN,NordVPN|NordVpn.DiagnosticsTool.Logic.dll|NordVpn.Api.dll|NordVpn.Resources.dll,VirusTotal - File - 35a4b2f74d0c8acbcf3fb0d9051e335afdf77a7e0b39c28cc5371c3d09072331
 RiseupVPN,leap\systray.log|bitmaskvpn|qgenericbearer.dll|riseup-vpn.exe,https://www.virustotal.com/gui/file/ddde44e1643e9580b6ee27ac4da366f0cc6d308ec055e484d12135480659f900 : https://any.run/report/5c21853a88a0ebc418bdd7b4a65f761d9dc7b888050b560698dbbb595783ae46/a94df68b-be60-4719-a346-7718e2d8a086
 VyprVPN,VyprVPN.exe|VyprVPNService.exe|VyprVPNWireGuardService.exe|VyprVPN.resources.dll|Golden Frog,https://any.run/report/6e9c8eb31b66541ce3f9bc1a4576d95c6f85d3ceca4d75e6c3372b93e9d05050/64fbfb2b-d140-4257-bce7-aa83bdde5b09  https://www.virustotal.com/gui/file/18a2e4643743755ff6e4f2e5db5a40155a2c3fe681894d8c7ccb14f49cbf3f76/relations
 PIA,Private Internet Access|pia-ss-local.exe|pia-wgservice.exe|pia-winsvcstub.exe,VirusTotal - File - 013a8235cb3126ea004c16a48671cb3045f81031864f2af56bb9e50a6737ea28
 TorGuard,torguarddesktopqt.exe,https://www.virustotal.com/gui/file/417017214830bba75b26e54dde5f91dfd6ef4b1fce4cbd6c3490ba1f1b6665a0/relations
 OECK,,
-CyberGhost,account.cyberghostvpn.com|CyberGhost.exe|
-CGVPNCliService.exe,VirusTotal - File - 48e1cfaf4093e614420f598fed0d7d15ae10e2c6e67096a2b39752f0d92871c3
+CyberGhost,account.cyberghostvpn.com|CyberGhost.exe|CGVPNCliService.exe,VirusTotal - File - 48e1cfaf4093e614420f598fed0d7d15ae10e2c6e67096a2b39752f0d92871c3
 ExpressVPN, Expressco Services LLC|ExpressVPN.SplitTunnel.dll|ExpressVpn.Utils.dll|ExpressVpn.Client.Engine.dll,https://www.virustotal.com/gui/file/7139570b3cda33ae9733f60be4a3c2097c1c083a1e62937ffa76c143157ee136/details
 IPVanish,IPVanish.exe,VirusTotal - File - e19daee0f0710fb2518bfe32867578d5944a92988da2796f2e5bc31b1aeaa598
 TunnelBear,,
