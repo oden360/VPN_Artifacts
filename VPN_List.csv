@@ -1,30 +1,29 @@
 ﻿Software,Arg,Description
-NetExtender,"NEService.exe","NECLI.exe","NEGui.exe","NEIdle.exe","sfpmonitor.sys","SonicWall","NetExtender",https://www.virustotal.com/gui/file/8ac08c5147f05dc70b47c5c2617cbcff0fce114f8627f0c038b37370edf2c8d4/relations
-Forticlient VPN,"Forticlient","FortiClientVPN.exe","FortiClient.exe",https://www.virustotal.com/gui/file/cc2ebb000859b5ba6461245ca82062af8fbec8c3257a99e141bff24bf0b0edce/details
+NetExtender,"'NEService.exe','NECLI.exe','NEGui.exe','NEIdle.exe','sfpmonitor.sys','SonicWall','NetExtender'",https://www.virustotal.com/gui/file/8ac08c5147f05dc70b47c5c2617cbcff0fce114f8627f0c038b37370edf2c8d4/relations
+Forticlient VPN,"'Forticlient','FortiClientVPN.exe','FortiClient.exe'",https://www.virustotal.com/gui/file/cc2ebb000859b5ba6461245ca82062af8fbec8c3257a99e141bff24bf0b0edce/details
 Google Cloud VPN,,
-Juniper_Pulse_secure,"Juniper Secure Connect","jnprva.sys","Pulse Secure, LLC",https://www.virustotal.com/gui/file/c8fd81d89b647e942ef87542ced690b658b173104046596c625745d7f94fba09/details
-Sonicwall Global VPN Client 4.x,"SonicWall Global VPN Client","SWGVC.exe","SWVNIC.SYS","swipsec.sys",https://www.virustotal.com/gui/file/2663dee4be9d346751d42bb1465b5d0138bcc99805790be0cb6f8f01574c1309
-SophosConnect,"sccli.exe","scvpn.exe",VirusTotal - File - 8907df018407b5b70a217e8f1d7623f879514536a37258af4f3605ec81a2f0e9
-IVPN,"Privatus Limited","ivpn-split-tunnel.sys","ivpn.exe","IVPN","IVPN Client.exe",https://www.virustotal.com/gui/file/78e363c6405134ab4424650f2d0435c5a2f4120fcd1b0d4ce062fcd3f6dc471a/details
-Mullvad,"Mullvad VPN","https://github.com/mullvad","mullvad-daemon.exe",VirusTotal - File - 49ee14871a1efab88921c1338349d40a732d4fb8c370eaa5047676ac5906768f
-ProtonVPN,"ProtonVPN",
-"ProtonVPN.InstallActions.dll","tapprotonvpn.sys",VirusTotal - File - a8c0275fdd40b609d34b43ef7cb1f6f814a0f758d65e7562e24899caf66964b7
-Windscribe,"
-"Windscribe","windscribeservice.exe",https://www.virustotal.com/gui/file/d239bc5872f2d3a93cb19dcb4ca252fe15202af6753ae55f24a194e1d98bca29/details
-AirVPN,"Eddie-Service-Elevated.exe","AirVPN.json",VirusTotal - File - 3fb659ed2160656e73f8c5102dae8be84a1641ea28023989c564d3c23c50198a
+Juniper_Pulse_secure,"'Juniper Secure Connect','jnprva.sys','Pulse Secure, LLC'",https://www.virustotal.com/gui/file/c8fd81d89b647e942ef87542ced690b658b173104046596c625745d7f94fba09/details
+Sonicwall Global VPN Client 4.x,"'SonicWall Global VPN Client','SWGVC.exe','SWVNIC.SYS','swipsec.sys'",https://www.virustotal.com/gui/file/2663dee4be9d346751d42bb1465b5d0138bcc99805790be0cb6f8f01574c1309
+SophosConnect,"'sccli.exe','scvpn.exe'",VirusTotal - File - 8907df018407b5b70a217e8f1d7623f879514536a37258af4f3605ec81a2f0e9
+IVPN,"'Privatus Limited','ivpn-split-tunnel.sys','ivpn.exe','IVPN','IVPN Client.exe'",https://www.virustotal.com/gui/file/78e363c6405134ab4424650f2d0435c5a2f4120fcd1b0d4ce062fcd3f6dc471a/details
+Mullvad,"'Mullvad VPN','https://github.com/mullvad','mullvad-daemon.exe'",VirusTotal - File - 49ee14871a1efab88921c1338349d40a732d4fb8c370eaa5047676ac5906768f
+ProtonVPN,"'ProtonVPN',
+'ProtonVPN.InstallActions.dll','tapprotonvpn.sys'",VirusTotal - File - a8c0275fdd40b609d34b43ef7cb1f6f814a0f758d65e7562e24899caf66964b7
+Windscribe,"'Windscribe','windscribeservice.exe'",https://www.virustotal.com/gui/file/d239bc5872f2d3a93cb19dcb4ca252fe15202af6753ae55f24a194e1d98bca29/details
+AirVPN,"'Eddie-Service-Elevated.exe','AirVPN.json'",VirusTotal - File - 3fb659ed2160656e73f8c5102dae8be84a1641ea28023989c564d3c23c50198a
 AzireVPN,,
-Surfshark,"surfshark.service.exe","surfshark.exe","Surfshark","Surfshark.Antivirus.Remediation.exe","SurfsharkSplitTunnelingService.exe",https://www.virustotal.com/gui/file/58e55e40cf79def5bbb7ee0268203c8f6d2b0d60fd1ded0454ea24e32c9a499f/details
-NordVPN,"NordVPN","NordVpn.DiagnosticsTool.Logic.dll",
-"NordVpn.Api.dll","NordVpn.Resources.dll",VirusTotal - File - 35a4b2f74d0c8acbcf3fb0d9051e335afdf77a7e0b39c28cc5371c3d09072331
-RiseupVPN,"leap\systray.log","bitmaskvpn","qgenericbearer.dll","riseup-vpn.exe",https://www.virustotal.com/gui/file/ddde44e1643e9580b6ee27ac4da366f0cc6d308ec055e484d12135480659f900 : https://any.run/report/5c21853a88a0ebc418bdd7b4a65f761d9dc7b888050b560698dbbb595783ae46/a94df68b-be60-4719-a346-7718e2d8a086
-VyprVPN,"VyprVPN.exe","VyprVPNService.exe","VyprVPNWireGuardService.exe","VyprVPN.resources.dll","Golden Frog",https://any.run/report/6e9c8eb31b66541ce3f9bc1a4576d95c6f85d3ceca4d75e6c3372b93e9d05050/64fbfb2b-d140-4257-bce7-aa83bdde5b09  https://www.virustotal.com/gui/file/18a2e4643743755ff6e4f2e5db5a40155a2c3fe681894d8c7ccb14f49cbf3f76/relations
-PIA,"Private Internet Access","pia-ss-local.exe","pia-wgservice.exe","pia-winsvcstub.exe",VirusTotal - File - 013a8235cb3126ea004c16a48671cb3045f81031864f2af56bb9e50a6737ea28
-TorGuard,"torguarddesktopqt.exe",https://www.virustotal.com/gui/file/417017214830bba75b26e54dde5f91dfd6ef4b1fce4cbd6c3490ba1f1b6665a0/relations
+Surfshark,"'surfshark.service.exe','surfshark.exe','Surfshark','Surfshark.Antivirus.Remediation.exe','SurfsharkSplitTunnelingService.exe'",https://www.virustotal.com/gui/file/58e55e40cf79def5bbb7ee0268203c8f6d2b0d60fd1ded0454ea24e32c9a499f/details
+NordVPN,"'NordVPN','NordVpn.DiagnosticsTool.Logic.dll',
+'NordVpn.Api.dll','NordVpn.Resources.dll'",VirusTotal - File - 35a4b2f74d0c8acbcf3fb0d9051e335afdf77a7e0b39c28cc5371c3d09072331
+RiseupVPN,"'leap\systray.log','bitmaskvpn','qgenericbearer.dll','riseup-vpn.exe'",https://www.virustotal.com/gui/file/ddde44e1643e9580b6ee27ac4da366f0cc6d308ec055e484d12135480659f900 : https://any.run/report/5c21853a88a0ebc418bdd7b4a65f761d9dc7b888050b560698dbbb595783ae46/a94df68b-be60-4719-a346-7718e2d8a086
+VyprVPN,"'VyprVPN.exe','VyprVPNService.exe','VyprVPNWireGuardService.exe','VyprVPN.resources.dll','Golden Frog'",https://any.run/report/6e9c8eb31b66541ce3f9bc1a4576d95c6f85d3ceca4d75e6c3372b93e9d05050/64fbfb2b-d140-4257-bce7-aa83bdde5b09  https://www.virustotal.com/gui/file/18a2e4643743755ff6e4f2e5db5a40155a2c3fe681894d8c7ccb14f49cbf3f76/relations
+PIA,"'Private Internet Access','pia-ss-local.exe','pia-wgservice.exe','pia-winsvcstub.exe'",VirusTotal - File - 013a8235cb3126ea004c16a48671cb3045f81031864f2af56bb9e50a6737ea28
+TorGuard,"'torguarddesktopqt.exe'",https://www.virustotal.com/gui/file/417017214830bba75b26e54dde5f91dfd6ef4b1fce4cbd6c3490ba1f1b6665a0/relations
 OECK,,
-CyberGhost,"account.cyberghostvpn.com","CyberGhost.exe",
-"CGVPNCliService.exe",VirusTotal - File - 48e1cfaf4093e614420f598fed0d7d15ae10e2c6e67096a2b39752f0d92871c3
-ExpressVPN," "Expressco Services LLC","ExpressVPN.SplitTunnel.dll","ExpressVpn.Utils.dll","ExpressVpn.Client.Engine.dll",https://www.virustotal.com/gui/file/7139570b3cda33ae9733f60be4a3c2097c1c083a1e62937ffa76c143157ee136/details
-IPVanish,"IPVanish.exe",VirusTotal - File - e19daee0f0710fb2518bfe32867578d5944a92988da2796f2e5bc31b1aeaa598
+CyberGhost,"'account.cyberghostvpn.com','CyberGhost.exe',
+'CGVPNCliService.exe'",VirusTotal - File - 48e1cfaf4093e614420f598fed0d7d15ae10e2c6e67096a2b39752f0d92871c3
+ExpressVPN,"'Expressco Services LLC','ExpressVPN.SplitTunnel.dll','ExpressVpn.Utils.dll','ExpressVpn.Client.Engine.dll'",https://www.virustotal.com/gui/file/7139570b3cda33ae9733f60be4a3c2097c1c083a1e62937ffa76c143157ee136/details
+IPVanish,"'IPVanish.exe'",VirusTotal - File - e19daee0f0710fb2518bfe32867578d5944a92988da2796f2e5bc31b1aeaa598
 TunnelBear,,
 StrongVPN,,
 AstrillVPN,,
@@ -32,9 +31,9 @@ SlickVPN,,
 Bytz VPN,,
 PureVPN,,
 Ivacy,,
-HideMyAss,"hidemyass.com","HMA.GUI.Controls.dll","InstallHMAVPN","HMA! Pro VPN.exe",https://www.virustotal.com/gui/file/8550cb92fbc3b49415c7c1c4b5aeb8c9f2a2d26a703e7b9b59a91040ca34959f/details
-SoftEtherVPN,"SoftEther VPN","vpnclient.exe","HKLM\Vpn_Check_Admin_Key","vpncmd.exe","VPN Gate Software","VpnGatePlugin_x64.dll",VirusTotal - File - 9ed3b3c42dd8be664fa582043220d6b7f92ee34d0702f0ec240cb442d99bac59  https://www.virustotal.com/gui/file/226e6b37712bdf43e43b98768b6b1e711be7c5a07807cb3f0fc59532e36cc5e5/relations
-openvpn,"OpenVPN Inc.","Open.VPN.exe","openvpnserv.exe","openvpn-installer.msi","TAP-Windows Virtual Network Driver","OpenVPN Technologies, Inc.","tap0901.sys","vpnc-script.js","tapinstall.exe","https://www.virustotal.com/gui/file/5ea48986cbb2b014628d8d1fd47754f496f425054baa726bb59a9fda0a1e4d8a/details ,https://www.virustotal.com/gui/file/d1e995a2d32e7833a369aa849e8b877162e07c1a161c6dccb95ca2052fc8b1e7/relations"
+HideMyAss,"'hidemyass.com','HMA.GUI.Controls.dll','InstallHMAVPN','HMA! Pro VPN.exe'",https://www.virustotal.com/gui/file/8550cb92fbc3b49415c7c1c4b5aeb8c9f2a2d26a703e7b9b59a91040ca34959f/details
+SoftEtherVPN,"'SoftEther VPN','vpnclient.exe','HKLM\Vpn_Check_Admin_Key','vpncmd.exe','VPN Gate Software','VpnGatePlugin_x64.dll'",VirusTotal - File - 9ed3b3c42dd8be664fa582043220d6b7f92ee34d0702f0ec240cb442d99bac59  https://www.virustotal.com/gui/file/226e6b37712bdf43e43b98768b6b1e711be7c5a07807cb3f0fc59532e36cc5e5/relations
+openvpn,"'OpenVPN Inc.','Open.VPN.exe','openvpnserv.exe','openvpn-installer.msi','TAP-Windows Virtual Network Driver','OpenVPN Technologies, Inc.','tap0901.sys','vpnc-script.js','tapinstall.exe'",'https://www.virustotal.com/gui/file/5ea48986cbb2b014628d8d1fd47754f496f425054baa726bb59a9fda0a1e4d8a/details ,https://www.virustotal.com/gui/file/d1e995a2d32e7833a369aa849e8b877162e07c1a161c6dccb95ca2052fc8b1e7/relations'
 n2n,,
 dsvpn,,
 strongswan,,
@@ -58,14 +57,15 @@ chipvpn,,
 vpa,,
 udpvpn,,
 Citrix R,,
-F5 Edge,,"GlobalProtect",,
+F5 Edge,,
+'GlobalProtect',,
 thunder-vpn,,
 packetix-vpn,,
 Ivanti Connect Secure,,
-securepoint,"spsslvpnservice.exe",
-open connect,"openconnectgui.exe","libopenconnect-5.dll",https://www.virustotal.com/gui/file/6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876/detection/f-6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876-1646819874
+securepoint,'spsslvpnservice.exe',
+open connect,"'openconnectgui.exe','libopenconnect-5.dll'",https://www.virustotal.com/gui/file/6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876/detection/f-6e38ff280d97a8991c079bc5d02e7818ee9676d850306b628b6c6bb87ae0a876-1646819874
 warp,,
-wireguard,"wireguard.dll","wireguard.exe","WireGuard LLC",https://www.virustotal.com/gui/file/27f03ee083337264bbdf1e7743bd18509c1a1d6a8600168b7e2e93bd112f470c/details
-Twingate,"TwingateUpdater.dll","Twingate.Service.dll",https://www.virustotal.com/gui/file/5c0292d6ae44e7fe2949a12170d820f7ee8fb091f508717a7c9bbddf876e97ab/relations
-logmein,"hamachi-2.exe","hamdrv.sys","hamachi.sys",VirusTotal - File - 19599ebcc20574aabff6816f78580711cd416ac545aacaf47ea4cff2f615d3b1
-Shadowsocks,"Shadowsocks.exe","Shadowsocks.resources.dll","sysproxy.exe",VirusTotal - File - 62b74a688d22bfdf20f673a351580029d7b9de67c6facc9a5613b22b3f798968
+wireguard,"'wireguard.dll','wireguard.exe','WireGuard LLC'",https://www.virustotal.com/gui/file/27f03ee083337264bbdf1e7743bd18509c1a1d6a8600168b7e2e93bd112f470c/details
+Twingate,"'TwingateUpdater.dll','Twingate.Service.dll'",https://www.virustotal.com/gui/file/5c0292d6ae44e7fe2949a12170d820f7ee8fb091f508717a7c9bbddf876e97ab/relations
+logmein,"'hamachi-2.exe','hamdrv.sys','hamachi.sys'",VirusTotal - File - 19599ebcc20574aabff6816f78580711cd416ac545aacaf47ea4cff2f615d3b1
+Shadowsocks,"'Shadowsocks.exe','Shadowsocks.resources.dll','sysproxy.exe'",VirusTotal - File - 62b74a688d22bfdf20f673a351580029d7b9de67c6facc9a5613b22b3f798968
