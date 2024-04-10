@@ -2,7 +2,7 @@
 NetExtender,NEService.exe|NECLI.exe|NEGui.exe|NEIdle.exe|sfpmonitor.sys|SonicWall|NetExtender,https://www.virustotal.com/gui/file/8ac08c5147f05dc70b47c5c2617cbcff0fce114f8627f0c038b37370edf2c8d4/relations
 Forticlient VPN,Forticlient|FortiClientVPN.exe|FortiClient.exe,https://www.virustotal.com/gui/file/cc2ebb000859b5ba6461245ca82062af8fbec8c3257a99e141bff24bf0b0edce/details
 Google Cloud VPN,,
-Juniper_Pulse_secure,Juniper Secure Connect|jnprva.sys|Pulse Secure|,https://www.virustotal.com/gui/file/c8fd81d89b647e942ef87542ced690b658b173104046596c625745d7f94fba09/details
+Juniper_Pulse_secure,Juniper Secure Connect|jnprva.sys|Pulse Secure|dsTermServ.exe,https://www.virustotal.com/gui/file/c8fd81d89b647e942ef87542ced690b658b173104046596c625745d7f94fba09/details
 Sonicwall Global VPN Client 4.x,SonicWall Global VPN Client|SWGVC.exe|SWVNIC.SYS|swipsec.sys,https://www.virustotal.com/gui/file/2663dee4be9d346751d42bb1465b5d0138bcc99805790be0cb6f8f01574c1309
 SophosConnect,sccli.exe|scvpn.exe,VirusTotal - File - 8907df018407b5b70a217e8f1d7623f879514536a37258af4f3605ec81a2f0e9
 IVPN,Privatus Limited|ivpn-split-tunnel.sys|ivpn.exe|IVPN|IVPN Client.exe,https://www.virustotal.com/gui/file/78e363c6405134ab4424650f2d0435c5a2f4120fcd1b0d4ce062fcd3f6dc471a/details
